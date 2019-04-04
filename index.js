@@ -12,5 +12,7 @@ function BoardMember(name, homeState, training) {
   this.doCharity = function() {
     return "I like to help people."
   }
-  this.
+  this.releasePressStatement = function() {
+    
+  }
 }
